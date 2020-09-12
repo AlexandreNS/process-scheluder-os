@@ -1,0 +1,11 @@
+{
+  "name": "process-scheduler",
+  "version": "1.0.0",
+  "description": "Implementation of some process schedulers for operating systems discipline",
+  "main": "scheduler.js",
+  "scripts": {
+    "test": "node ./test"
+  },
+  "author": "Alexandre Silva",
+  "license": "ISC"
+}
